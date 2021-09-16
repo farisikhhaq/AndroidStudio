@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [DAFTAR HALAMAN](README.md)
 * [Sistem Operasi Android](android.md)
 * [Install Android Studio](android_studio.md)
 * [Tour Android Studio](tour.md)
