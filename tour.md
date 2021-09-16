@@ -12,9 +12,9 @@ Android Studio adalah Integrated Development Environment \(IDE\) resmi untuk pen
 
 ## User Interface Android Studio
 
-![User Interface Android Studio](../.gitbook/assets/1-edit.png)
+![User Interface Android Studio](https://github.com/farisikhhaq/AndroidStudio/tree/250c4ff5542cfa5da2c4f58b222daf834e55c925/.gitbook/assets/1-edit.png)
 
-![User Interface Android Studio](../.gitbook/assets/3-edit.png)
+![User Interface Android Studio](https://github.com/farisikhhaq/AndroidStudio/tree/250c4ff5542cfa5da2c4f58b222daf834e55c925/.gitbook/assets/3-edit.png)
 
 1. Menu Bar, berisi perintah dan opsi yang dapat dipilih untuk mengeksekusi suatu perintah.
 2. Menu Navigasi, membantu Anda menjelajah project dan membuka file untuk diedit. Menu ini memberikan tampilan struktur yang lebih ringkas yang terlihat di jendela Project.
